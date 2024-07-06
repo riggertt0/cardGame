@@ -52,7 +52,7 @@
 34) гарпия ![image](https://github.com/riggertt0/cardGame/assets/70891530/557b08cf-56ef-4bd5-9cd0-5c9f4b0b2976)
 35) гаргулья
 36) огромная сова ![image](https://github.com/riggertt0/cardGame/assets/70891530/6a686561-fa9f-4a89-9097-2183ae190693)
-37) огр маг крови (не даун из доты)
+37) огр маг крови (не даун из доты) ![image](https://github.com/riggertt0/cardGame/assets/70891530/39162eb2-c4f4-4509-8f30-f9bc1acfdf48)
 38) поехавший старый дед маг (в половине случаев заклинание проваливается и делает ерунду)
 39) 
 
