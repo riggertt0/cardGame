@@ -109,8 +109,8 @@
 92) морж
 93) носорог (какой нибудь магический) ![image](https://github.com/riggertt0/cardGame/assets/70891530/be6dd092-a519-40ba-951d-87d1f39b3cd6)
 94) громила с дубиной бывший коллектор ![image](https://github.com/riggertt0/cardGame/assets/70891530/51b8a42a-9f6d-452e-929b-e673fc6b9145) ![image](https://github.com/riggertt0/cardGame/assets/70891530/d06727e3-8ca4-4d34-a32b-43292c6b4ee3)
-95) первобытный орк голодранец(дикий орк) ![image](https://github.com/riggertt0/cardGame/assets/70891530/8d7ca85f-d054-4409-87db-b9f67fb49b87) ![image](https://github.com/riggertt0/cardGame/assets/70891530/8bb37af0-0907-46a6-9652-97d09c3b7cd2)
-96) крепкий мощный ент
+95) первобытный орк голодранец(дикий орк) ![image](https://github.com/riggertt0/cardGame/assets/70891530/8d7ca85f-d054-4409-87db-b9f67fb49b87) ![image](https://github.com/riggertt0/cardGame/assets/70891530/8bb37af0-0907-46a6-9652-97d09c3b7cd2) ---
+96) крепкий мощный ент ---
 97) просто жижа призываемая 2
 98) пидж призываемый 2
 99) элементаль огня призываемый 10
