@@ -1,13 +1,17 @@
-# heroes
+![image](https://github.com/user-attachments/assets/3a0f14f5-6ea5-42c1-be39-aee0b2c9f2d9)# heroes
 
 1) орк воин  
 история: #имя# так его звали был изгнан из своего же племени... неизвестно, как именно это произошло. Говорили, что он был слишком силен, что его ярость была неукротимой, что он не подчинялся вождям. 
 черты: сильный 6/10 тупой бесстрашный  
 внешность: зеленый, большое количество брони собранной из всякого хлама, в руках топор в застывшей кровью на лезвии.
 ![image](https://github.com/user-attachments/assets/6e049e1c-1df0-47ec-b78a-6135f76ab10b)
+![image](https://github.com/user-attachments/assets/69653097-15dc-41fc-8203-f9977c5251e3)
 
 
-2) персона в черном плаще капюшоне некромант ![image](https://github.com/riggertt0/cardGame/assets/70891530/8066b7f2-369a-4adf-b5a3-fa58be09ffb3)
+
+2) персона в черном плаще капюшоне некромант ![image](https://github.com/user-attachments/assets/f3beac52-c7d3-471d-81c8-9f0edd04e544)
+![image](https://github.com/user-attachments/assets/80e7f8f2-6269-4028-88cd-42ff6d5e007d)
+
 
 3) паладин (сапорт в цепочках событий но сам по себе средний)
 
@@ -16,6 +20,8 @@
 5) продавец драконов который после покупки превритится в свинью
 
 6) крестьянин с копьем побывавший на войне он выжил и стал психопатом
+![image](https://github.com/user-attachments/assets/06f06fa3-4cc3-442d-9843-32d1bce0d6ba)
+
 
 7) гном с огромной пушкой (именно пушкой на колесах)
 
@@ -40,6 +46,8 @@
 17) асасин 
 
 18) оборотень 
+![image](https://github.com/user-attachments/assets/619d1a0e-65d6-4ed2-84b0-c51e7af2a73c)
+
 
 19) вампир когти клыки
 
@@ -58,6 +66,8 @@
 26) друид 
 
 27) банда гномов с передвижной башней 
+![image](https://github.com/user-attachments/assets/e93823d5-f2cd-49e7-9244-fc613cf79b95)
+
 
 28) валькирия
 
@@ -90,6 +100,8 @@
 42) свиньи 
 
 43) пират
+![image](https://github.com/user-attachments/assets/0b1e8e5c-dd73-4014-9be3-1a4c395a9637)
+
 
 44) мим который может связать из шариков любого вйона или существо (но будет юзлес) расскажет в истории что я могу создать любого 
 могущественного война по его образу и подобию а потом окажется что толкьо из воздушных шариков ---
@@ -136,6 +148,8 @@
 64) дух/призрак
 
 65) пуголо
+![image](https://github.com/user-attachments/assets/f80f5115-48ca-4049-a0ca-bdd524e4d5a2)
+
 
 66) крыса
 
@@ -156,8 +170,19 @@
 74) грифон гипогриф
 
 75) снеговик
+![image](https://github.com/user-attachments/assets/0054fbdc-3651-4c99-850c-d6010d2ca545)
+
 
 76) заключенный (его держали в подвале и кормили одной человеченой)
+77) волк
+![image](https://github.com/user-attachments/assets/e993aa13-ee95-4c7f-96c9-54da96765cc0)
+
+
+
+
+РАСТВОРЕННАЯ ЖИЖА ![image](https://github.com/user-attachments/assets/e20112bd-e45d-4664-afcc-558f1eb3746a)
+
+
 
 
 
