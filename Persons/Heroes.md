@@ -13,8 +13,8 @@
 ![image](https://github.com/user-attachments/assets/80e7f8f2-6269-4028-88cd-42ff6d5e007d)
 
 
-3) паладин (сапорт в цепочках событий но сам по себе средний)
-![image](https://github.com/user-attachments/assets/66453b56-3dd9-4cda-8cb3-532308e5e2d6)
+3) паладин (сапорт в цепочках событий но сам по себе средний) ![image](https://github.com/user-attachments/assets/66453b56-3dd9-4cda-8cb3-532308e5e2d6) ![image](https://github.com/user-attachments/assets/f5627d49-7ffd-46a3-8572-279f23a7c6ff)
+
 
 
 4) единорог
