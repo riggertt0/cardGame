@@ -14,10 +14,12 @@
 
 
 3) паладин (сапорт в цепочках событий но сам по себе средний) ![image](https://github.com/user-attachments/assets/66453b56-3dd9-4cda-8cb3-532308e5e2d6) ![image](https://github.com/user-attachments/assets/f5627d49-7ffd-46a3-8572-279f23a7c6ff)
+![image](https://github.com/user-attachments/assets/0980e29b-ed44-425f-9507-7b894b4b0180)
 
 
 
-4) единорог
+
+5) единорог
 ![image](https://github.com/user-attachments/assets/213dba5e-9314-4a26-90bf-6896c500f3ec)
 
 
