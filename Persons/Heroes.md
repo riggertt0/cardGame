@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/6b25747f-eb0a-4448-8ff5-f6e9b3f40029)![image](https://github.com/user-attachments/assets/3a0f14f5-6ea5-42c1-be39-aee0b2c9f2d9)# heroes
+# heroes
 
 1) орк воин  
 история: #имя# так его звали был изгнан из своего же племени... неизвестно, как именно это произошло. Говорили, что он был слишком силен, что его ярость была неукротимой, что он не подчинялся вождям. 
 черты: сильный 6/10 тупой бесстрашный  
 внешность: зеленый, большое количество брони собранной из всякого хлама, в руках топор в застывшей кровью на лезвии.
-![image](https://github.com/user-attachments/assets/6e049e1c-1df0-47ec-b78a-6135f76ab10b)
+
 ![image](https://github.com/user-attachments/assets/69653097-15dc-41fc-8203-f9977c5251e3)
 
 
