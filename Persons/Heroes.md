@@ -56,7 +56,9 @@
 
 
 14) старый трухлявый ент
-![image](https://github.com/user-attachments/assets/9cf5e422-2d32-4e3f-ad26-c652659cd23b)
+![image](https://github.com/user-attachments/assets/c9349265-c97a-4961-a779-26b8fc8b6587)
+![image](https://github.com/user-attachments/assets/9a37c270-bb4d-4774-afb3-f72b8db775d6)
+
 ![image](https://github.com/user-attachments/assets/648639fc-83e3-4cb1-9b90-b7617f97b0c1)
 
 
