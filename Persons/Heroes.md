@@ -100,7 +100,10 @@
 
 30) Ходячий гриб 
 
-31) гоблины с катапультой в которую они сами и залезают ![image](https://github.com/riggertt0/cardGame/assets/70891530/74317508-ad95-485a-a683-ba951c71b1f4) ![image](https://github.com/riggertt0/cardGame/assets/70891530/f05ec933-e1fb-4029-be75-9859479be0c4)
+31) гоблины с катапультой в которую они сами и залезают 
+![image](https://github.com/user-attachments/assets/e05d8fdb-caa5-4a09-a8e8-8715afd26f59)
+
+![image](https://github.com/riggertt0/cardGame/assets/70891530/74317508-ad95-485a-a683-ba951c71b1f4) ![image](https://github.com/riggertt0/cardGame/assets/70891530/f05ec933-e1fb-4029-be75-9859479be0c4)
 
 32) полурослик с рогаткой 
 
