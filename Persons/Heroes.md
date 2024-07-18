@@ -21,6 +21,8 @@
 
 5) единорог
 ![image](https://github.com/user-attachments/assets/213dba5e-9314-4a26-90bf-6896c500f3ec)
+![image](https://github.com/user-attachments/assets/60092269-bb4a-4f76-8143-86bb1855f4d9)
+
 
 
 6) продавец драконов который после покупки превритится в свинью
@@ -54,6 +56,8 @@
 
 
 14) старый трухлявый ент
+![image](https://github.com/user-attachments/assets/5044bd18-78a1-4dcf-9489-1e3c01f190e7)
+
 
 15) пьяный мастер (приходит пьяница а если купить будет сказано что сильный боец)
 
