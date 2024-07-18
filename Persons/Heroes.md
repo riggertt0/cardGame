@@ -45,7 +45,8 @@
 ![image](https://github.com/user-attachments/assets/bd382436-6935-47a3-9ab6-7df1840efaff)
 ![image](https://github.com/user-attachments/assets/0bf3149d-000c-4b3a-9b3b-5d58481da142)
 
-![image](https://github.com/user-attachments/assets/cb5aa084-e438-4c84-bd13-67072da50759)
+![image](https://github.com/user-attachments/assets/1bf765b1-8b67-4d92-9079-b9252b0f43d6)
+
 
 
 13) гоблин (умник)
