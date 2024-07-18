@@ -56,7 +56,8 @@
 
 
 14) старый трухлявый ент
-![image](https://github.com/user-attachments/assets/5044bd18-78a1-4dcf-9489-1e3c01f190e7)
+![image](https://github.com/user-attachments/assets/9cf5e422-2d32-4e3f-ad26-c652659cd23b)
+
 
 
 15) пьяный мастер (приходит пьяница а если купить будет сказано что сильный боец)
