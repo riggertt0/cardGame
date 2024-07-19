@@ -25,6 +25,7 @@
 
 
 
+
 6) продавец драконов который после покупки превритится в свинью
 
 7) крестьянин с копьем побывавший на войне он выжил и стал психопатом
@@ -120,6 +121,13 @@
 36) гном в механическом костюме
 
 37) мясник
+![image](https://github.com/user-attachments/assets/0361a3fa-e591-4077-8cba-1d3f798bc88e)
+![image](https://github.com/user-attachments/assets/d909cb59-a302-4f31-aef8-c03eb9729893)
+![image](https://github.com/user-attachments/assets/16a51e0f-4135-4509-8382-582d97aa4ef1)
+![image](https://github.com/user-attachments/assets/cf3f4554-1140-4f2f-ad5d-0c98ed764501)
+
+
+
 
 38) китайский монах 
 
