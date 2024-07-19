@@ -45,12 +45,8 @@
 11) ледяной маг
 
 12) тупой троль
-![image](https://github.com/user-attachments/assets/bd382436-6935-47a3-9ab6-7df1840efaff)
-![image](https://github.com/user-attachments/assets/0bf3149d-000c-4b3a-9b3b-5d58481da142)
-
-![image](https://github.com/user-attachments/assets/1bf765b1-8b67-4d92-9079-b9252b0f43d6)
-
-
+![image](https://github.com/user-attachments/assets/1c7777cd-a6c3-4c4d-9704-a2b354f6622e)
+![image](https://github.com/user-attachments/assets/f2a8a7ec-c1e6-456d-866c-5c6fcefbec89)
 
 13) гоблин (умник)
 ![image](https://github.com/user-attachments/assets/09cefa0e-d181-43a4-8116-51ecb76d82a4)
@@ -63,6 +59,8 @@
 
 
 15) пьяный мастер (приходит пьяница а если купить будет сказано что сильный боец)
+![image](https://github.com/user-attachments/assets/4b9c854e-e725-4aee-96bc-4d3ae2141858)
+
 
 16) обезьяна с посохом (история должна быть написана так чтобы было непонятно что это просто тупая макака, чтобы игрок мог подумать что это обезьяна типо манки конг но это окажется просто тупой обезьяной) 
 
