@@ -57,9 +57,6 @@
 
 
 14) старый трухлявый ент
-![image](https://github.com/user-attachments/assets/c9349265-c97a-4961-a779-26b8fc8b6587)
-![image](https://github.com/user-attachments/assets/9a37c270-bb4d-4774-afb3-f72b8db775d6)
-
 ![image](https://github.com/user-attachments/assets/648639fc-83e3-4cb1-9b90-b7617f97b0c1)
 
 
@@ -121,13 +118,7 @@
 36) гном в механическом костюме
 
 37) мясник
-![image](https://github.com/user-attachments/assets/0361a3fa-e591-4077-8cba-1d3f798bc88e)
-![image](https://github.com/user-attachments/assets/d909cb59-a302-4f31-aef8-c03eb9729893)
 ![image](https://github.com/user-attachments/assets/16a51e0f-4135-4509-8382-582d97aa4ef1)
-![image](https://github.com/user-attachments/assets/cf3f4554-1140-4f2f-ad5d-0c98ed764501)
-
-
-
 
 38) китайский монах 
 
