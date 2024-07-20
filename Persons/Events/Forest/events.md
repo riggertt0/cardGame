@@ -5,7 +5,11 @@
 ![image](https://github.com/user-attachments/assets/b2497cf0-a480-4543-98a0-3d049f5abf5b)
 
 Как итог можно писать что случилось с тем кто выпил зелье и нарисовать 
-![image](https://github.com/user-attachments/assets/07974fb7-e8e7-4d7a-b130-55b730349156)
+![image](https://github.com/user-attachments/assets/4c321756-b265-440e-a18f-664d0de64c95)
+![image](https://github.com/user-attachments/assets/536ea942-fc06-4cf8-bfa7-7c366916e490)
+![image](https://github.com/user-attachments/assets/bc82635b-c14a-46f5-9a36-71bbd3589099)
+![image](https://github.com/user-attachments/assets/f0ef2d57-52e2-424e-92f5-bb6ce4b2d540)
+
 
 
 
